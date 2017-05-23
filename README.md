@@ -8,5 +8,5 @@ This app was built by following the tutorial found [here](https://www.youtube.co
 
 ## Controls
 
-- Use the arrow keys to move the pieces Left, Right and Down.
-- Use the Up arrow to rotate the current piece.
+- Use the arrow keys to move the pieces `Left`, `Right` and `Down`.
+- Use the `Up` arrow to rotate the current piece.
